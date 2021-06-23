@@ -14,5 +14,4 @@ C:\Users\Administrator\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp
 C:\Users\Administrator\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
 C:\Users\Administrator\DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\Administrator\DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Users\Administrator\DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Users\Administrator\DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.genruntimeconfig.cache
